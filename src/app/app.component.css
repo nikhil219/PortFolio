@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+.navbar{
+    display: flex;
+    position: absolute;
+    left: -10px;
+    width: 105%;
+}
