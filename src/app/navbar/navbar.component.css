@@ -3,7 +3,7 @@ display: flex;
 }
 .tabs{
   position: relative;
-  left: 30rem;
+  left: 27rem;
   text-decoration: none;
   padding: 25px 10px;
     color: #343a40;
@@ -22,12 +22,13 @@ display: flex;
   font-weight: 900;
   outline: none;
   position:relative;
+  padding-left: 28px;
   left: 30px;
 
 }
 .btn{
   position: relative;
-  left: 40rem;
+  left: 38rem;
   border-radius: 100px;
   font-weight: 500;
     text-align: center;
